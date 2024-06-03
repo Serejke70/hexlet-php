@@ -1,0 +1,13 @@
+{
+    "name": "serejke70/example",
+    "description": "test",
+    "type": "library",
+    "authors": [
+    
+        {
+            "name": "serejke70",
+            "email": "serejke70@yandex.ru"
+        }
+    ],
+    "require": {}
+}
