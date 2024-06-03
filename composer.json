@@ -1,9 +1,13 @@
 {
     "name": "serejke70/example",
+     "autoload": {
+        "files": [
+            "src/Runner"            
+        ]
+    },
     "description": "test",
     "type": "library",
     "authors": [
-    
         {
             "name": "serejke70",
             "email": "serejke70@yandex.ru"
